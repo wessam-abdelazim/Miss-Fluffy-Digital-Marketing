@@ -1,16 +1,8 @@
 
-# Miss Fluffy
-## Digital Marketing Strategy & Social Media Growth Project
 
----
-
-## 1. Project Overview
-
-**Project Name:** Miss Fluffy - Digital Marketing Project
+**Project Name:** Miss Fluffy - Digital Marketing 
 
 **Brand:** Miss Fluffy Hair Care Products
-
-**Project Type:** Digital Marketing Graduation Project
 
 **Track:** Digital Marketing Specialist - DEPI
 
@@ -28,13 +20,12 @@ Developing an integrated digital marketing plan for Miss Fluffy Hair Care Produc
 ---
 
 ## 3. Team Members
-
-- Wessam Abdelazim
+- Ayat Elsayed
 - Sahar Abdelfattah
 - Ahmed Khalaf
-- Ayat Elsayed
 - Samar Kamal
 - Hamssa Mohamed
+- Wessam Abdelazim
 
 ---
 
@@ -99,7 +90,7 @@ KPIs will be evaluated based on available data and campaign objectives.
 
 Project documents, research, content calendar, creative designs, campaigns, reports, and presentation will be organized and shared through the project Google Drive.
 
-**Google Drive:** [Insert Google Drive Link]
+**Google Drive:** ( https://drive.google.com/drive/folders/1pBEJHWszerH-bT1AsyepAnG6S2Alsny9 ) 
 
 **Canva Designs:** [Insert Canva Link]
 
@@ -111,12 +102,4 @@ Project documents, research, content calendar, creative designs, campaigns, repo
 - Instagram
 - Canva
 - Google Drive
-- GitHub
-
----
-
-## 10. Project Documentation
-
-This repository serves as the main documentation hub for the DEPI Digital Marketing Graduation Project.
-
-It contains the project overview, work plan, team information, KPIs, and links to project deliverables and supporting files.
+  
